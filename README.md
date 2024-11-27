@@ -1,1 +1,2 @@
 # Currency_Convertor
+A currency converter is a tool that allows users to convert one currency into another, based on current exchange rates. It helps individuals and businesses calculate the equivalent value of money in different currencies, making international transactions, travel, and trade easier. Currency converters are available as online tools, mobile apps, or built-in features in financial software. They are essential for accurate and up-to-date conversions, ensuring users get the correct value when dealing with multiple currencies across the globe.
